@@ -12,7 +12,7 @@
 - Make sure that both devices are under the same wifi
 - It is recommended to change the system navigation mode from full-screen gestures to classic navigation keys.
 1. Connect two devices
-- Client device: input Server IP (showed on the bottom of server screen)
+- Client device: input Server IP (showed on server screen center)
 - Client decive: tap "Connect" button
 - Both device turns to black background if connected successfully
 2. Enter lab
