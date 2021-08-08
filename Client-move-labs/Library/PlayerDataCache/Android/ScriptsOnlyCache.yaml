@@ -669,4 +669,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Entry.unity
   - Assets/Scenes/Demo.unity
-  playerPath: D:/WorkSpace/Unity Build/move-client.apk
+  playerPath: D:/WorkSpace/Unity Build/move-client-labs.apk
