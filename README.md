@@ -5,10 +5,6 @@
 - Direct Drag (accessible)
 - Hold and Tap (accessible)
 - Throw and Catch (accessible)
-2. Labs - Drag Mode
-- Direct Drag (accessible)
-- Hold and Tap (inaccessible)
-- Throw and Catch (inaccessible)
 
 ## How to use
 
